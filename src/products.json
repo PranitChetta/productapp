@@ -1,0 +1,130 @@
+{
+    "products": [
+        {
+            "pid": 1,
+            "pname": "FEJKA",
+            "price": "25",
+            "img": "https://www.ikea.com/in/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_PE686822_S5.JPG",
+            "desc": "FEJKA artificial potted plants that don’t require a green thumb. Perfect when you have better things to do than water plants and tidy up dead leaves. You’ll have everyone fooled because they look so lifelike."
+        },
+        {
+            "pid": 2,
+            "pname": "DYPSIS LUTESCENS",
+            "price": "49",
+            "img": "https://www.ikea.com/in/en/images/products/dypsis-lutescens-potted-plant-areca-palm__0653976_PE708205_S5.JPG?f=xs",
+            "desc": "This plant humidifies air and suits offices or homes with dry air. It’s sometimes called a butterfly palm due to the shape of the leaves and can boost your well-being and make the room more vibrant."
+        },
+        {
+            "pid": 3,
+            "pname": "SPATHIPHYLLUM",
+            "price": "69",
+            "img": "https://www.ikea.com/in/en/images/products/spathiphyllum-potted-plant-peace-lily__0611636_PE686865_S5.JPG?f=xs",
+            "desc": "When the leaves droop on this easy-care plant, it’s trying to tell you that it needs water. Easy to understand – and it can also boost your well-being and make the home more vibrant."
+        },
+        {
+            "pid": 4,
+            "pname": "EPIPREMNUM",
+            "price": "19",
+            "img": "https://www.ikea.com/in/en/images/products/epipremnum-potted-plant-golden-pothos__0492128_PE625482_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 5,
+            "pname": "ANTHURIUM",
+            "price": "59",
+            "img": "https://www.ikea.com/in/en/images/products/anthurium-potted-plant-flamingo-plant-red__0614377_PE686883_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 6,
+            "pname": "KALANCHOE",
+            "price": "49",
+            "img": "https://www.ikea.com/in/en/images/products/kalanchoe-potted-plant-kalanchoe-assorted__0492136_PE625485_S5.JPG?f=xs",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 7,
+            "pname": "PHILODENDRON XANADU",
+            "price": "99",
+            "img": "https://www.ikea.com/in/en/images/products/philodendron-xanadu-potted-plant__0611631_PE686862_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 8,
+            "pname": "ZAMIOCULCAS",
+            "price": "29",
+            "img": "https://www.ikea.com/in/en/images/products/zamioculcas-potted-plant-aroid-palm__67488_PE181328_S5.JPG?f=xs",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 9,
+            "pname": "CHRYSALIDOCARPUS LUTESCENS",
+            "price": "39",
+            "img": "https://www.ikea.com/in/en/images/products/chrysalidocarpus-lutescens-potted-plant-areca-palm__0611629_PE686860_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 10,
+            "pname": "FEJKA",
+            "price": "25",
+            "img": "https://www.ikea.com/in/en/images/products/fejka-artificial-potted-plant-in-outdoor-monstera__0614197_PE686822_S5.JPG",
+            "desc": "FEJKA artificial potted plants that don’t require a green thumb. Perfect when you have better things to do than water plants and tidy up dead leaves. You’ll have everyone fooled because they look so lifelike."
+        },
+        {
+            "pid": 11,
+            "pname": "DYPSIS LUTESCENS",
+            "price": "49",
+            "img": "https://www.ikea.com/in/en/images/products/dypsis-lutescens-potted-plant-areca-palm__0653976_PE708205_S5.JPG?f=xs",
+            "desc": "This plant humidifies air and suits offices or homes with dry air. It’s sometimes called a butterfly palm due to the shape of the leaves and can boost your well-being and make the room more vibrant."
+        },
+        {
+            "pid": 12,
+            "pname": "SPATHIPHYLLUM",
+            "price": "69",
+            "img": "https://www.ikea.com/in/en/images/products/spathiphyllum-potted-plant-peace-lily__0611636_PE686865_S5.JPG?f=xs",
+            "desc": "When the leaves droop on this easy-care plant, it’s trying to tell you that it needs water. Easy to understand – and it can also boost your well-being and make the home more vibrant."
+        },
+        {
+            "pid": 13,
+            "pname": "EPIPREMNUM",
+            "price": "19",
+            "img": "https://www.ikea.com/in/en/images/products/epipremnum-potted-plant-golden-pothos__0492128_PE625482_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 14,
+            "pname": "ANTHURIUM",
+            "price": "59",
+            "img": "https://www.ikea.com/in/en/images/products/anthurium-potted-plant-flamingo-plant-red__0614377_PE686883_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 15,
+            "pname": "KALANCHOE",
+            "price": "49",
+            "img": "https://www.ikea.com/in/en/images/products/kalanchoe-potted-plant-kalanchoe-assorted__0492136_PE625485_S5.JPG?f=xs",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 16,
+            "pname": "PHILODENDRON XANADU",
+            "price": "99",
+            "img": "https://www.ikea.com/in/en/images/products/philodendron-xanadu-potted-plant__0611631_PE686862_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 17,
+            "pname": "ZAMIOCULCAS",
+            "price": "29",
+            "img": "https://www.ikea.com/in/en/images/products/zamioculcas-potted-plant-aroid-palm__67488_PE181328_S5.JPG?f=xs",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        },
+        {
+            "pid": 18,
+            "pname": "CHRYSALIDOCARPUS LUTESCENS",
+            "price": "39",
+            "img": "https://www.ikea.com/in/en/images/products/chrysalidocarpus-lutescens-potted-plant-areca-palm__0611629_PE686860_S5.JPG?f=s",
+            "desc": "Decorate your home with plants combined with a plant pot to suit your style."
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+.product-item{
+  border-radius: 10px;
+  box-shadow: 0px 0px 5px black;
+  margin: 20px;
+}
+
+.product-item .pimg{
+  float: right;
+  margin-bottom: 10px;
+  width: 100%;
+}
+
+.img-plus{
+  float: right;
+}
+
+.product-item .pdetails{
+  margin: 10px;
+}
